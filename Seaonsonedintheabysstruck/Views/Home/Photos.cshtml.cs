@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace Seaonsonedintheabysstruck.Views.Home
 {
-    public class CalendarModel : PageModel
+    public class calendarModel : PageModel
     {
         public void OnGet()
         {
